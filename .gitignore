@@ -10,9 +10,10 @@ Credentials.txt
 
 # production
 /build
+.dockerignore
+Dockerfile
 
 # production database
-# /server/db.js
 
 # misc
 .DS_Store
